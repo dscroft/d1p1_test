@@ -1,0 +1,27 @@
+{
+  "version": "3.71.29339.0",
+  "course_id": "65r9FJhsnAS_course_id",
+  "title": "test2",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Graphs"
+    }
+  ],
+  "slides": [
+    {
+      "id": "61Id908rsfi",
+      "title": "Bar Graph",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1401,
+    "height": 841
+  },
+  "stage": {
+    "width": 1381,
+    "height": 770
+  }
+}

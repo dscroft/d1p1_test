@@ -1,0 +1,639 @@
+WEBVTT
+
+00:00:03.000 --> 00:00:04.653
+Hello and welcome to this tutorial
+
+00:00:04.653 --> 00:00:08.615
+on the UK Connected
+and Automated Mobility Roadmap to 2030.
+
+00:00:08.692 --> 00:00:10.769
+CAM creators update
+
+00:00:10.769 --> 00:00:13.076
+In this tutorial,
+I'll explain how to use the roadmap
+
+00:00:13.076 --> 00:00:16.076
+outlining some of the key features
+along the way.
+
+00:00:16.307 --> 00:00:19.884
+As we can see, we're in the home view here
+and we've got our toolbar along the left
+
+00:00:20.000 --> 00:00:23.461
+through which we can go
+to the different views of the roadmap.
+
+00:00:23.538 --> 00:00:26.500
+Let's jump into the high level overview.
+
+00:00:26.500 --> 00:00:29.076
+Now, this is the most condensed
+version of the roadmap providing
+
+00:00:29.076 --> 00:00:33.423
+an overview of the key activities
+that need to happen between now and 2030.
+
+00:00:33.500 --> 00:00:36.461
+We've got our themes and streams
+of the roadmap along the left here,
+
+00:00:36.461 --> 00:00:40.269
+and we've got a timeline between now
+and 2030.
+
+00:00:40.346 --> 00:00:43.846
+Now, in the body of the view
+here, we've got our one page groups
+
+00:00:43.923 --> 00:00:46.769
+and these represent collections
+of related milestones.
+
+00:00:46.769 --> 00:00:50.307
+And to see these milestones, all we need
+to do is click on one of these groups
+
+00:00:50.384 --> 00:00:53.269
+and the related milestones will open here
+
+00:00:53.346 --> 00:00:54.269
+to return back to The View.
+
+00:00:54.269 --> 00:00:57.576
+All I need to do
+is just click back on this icon.
+
+00:00:57.653 --> 00:01:00.846
+Now let's jump into the full roadmap
+to 2030 view,
+
+00:01:00.923 --> 00:01:03.923
+and this displays
+all of the milestones of the roadmap.
+
+00:01:04.076 --> 00:01:06.769
+We've got the same structure
+as the high level overview with our themes
+
+00:01:06.769 --> 00:01:10.461
+and streams on the left and
+also our timeline along the bottom here.
+
+00:01:10.538 --> 00:01:14.576
+And we've got a scrollable view here.
+
+00:01:14.653 --> 00:01:17.884
+And one of the things that you'll notice
+is the colors
+
+00:01:17.884 --> 00:01:20.884
+over in this view,
+we've got all red, amber and green
+
+00:01:20.884 --> 00:01:26.269
+rag progress statuses is what these,
+these colors represent.
+
+00:01:26.269 --> 00:01:31.192
+So they represent the progress
+of these activities, these milestones.
+
+00:01:31.192 --> 00:01:34.807
+And you'll see the key for those colors
+in the top here.
+
+00:01:34.884 --> 00:01:35.884
+Now, there are a number of ways
+
+00:01:35.884 --> 00:01:39.884
+to reduce activities down to those
+that are most relevant.
+
+00:01:40.000 --> 00:01:43.923
+One of the first things we can do
+is click on an orienting milestone.
+
+00:01:44.115 --> 00:01:47.846
+So let's just find this one here
+so we can click on this one here.
+
+00:01:47.846 --> 00:01:50.576
+This one is called Defined Communications
+for new schemes.
+
+00:01:50.576 --> 00:01:53.884
+And by clicking on this one,
+we can see the related milestones
+
+00:01:53.884 --> 00:01:56.769
+and also the relationships that
+
+00:01:56.846 --> 00:01:59.692
+One of the other
+ways that we can reduce down activities.
+
+00:01:59.692 --> 00:02:02.730
+So as part of this new update,
+we've got this search functionality here
+
+00:02:02.730 --> 00:02:05.692
+which searches across the name
+and description information
+
+00:02:05.692 --> 00:02:06.846
+of these milestones.
+
+00:02:06.846 --> 00:02:09.653
+So let's say
+I'm interested in data formats.
+
+00:02:09.653 --> 00:02:11.461
+As you see
+
+00:02:11.461 --> 00:02:13.846
+as I’m typing,
+the milestones will reduce down
+
+00:02:13.846 --> 00:02:16.769
+and let's go through to date formats.
+
+00:02:16.769 --> 00:02:18.884
+And now this is the milestone
+that I'm interested in.
+
+00:02:18.884 --> 00:02:21.153
+So I want to find out
+more about this milestone.
+
+00:02:21.153 --> 00:02:24.423
+So what I need to do is right
+click, click, open Item
+
+00:02:24.500 --> 00:02:28.269
+and the global panel for this
+milestone will open here.
+
+00:02:28.346 --> 00:02:30.846
+And the first panel
+you see is an attributes
+
+00:02:30.846 --> 00:02:33.884
+panel which will provide some information
+about this milestone.
+
+00:02:33.884 --> 00:02:38.461
+So we've got an ID description, details
+of themed stream start and end dates.
+
+00:02:38.538 --> 00:02:42.384
+We've got the panel for relationships
+for this milestone and also panel for
+
+00:02:42.384 --> 00:02:43.923
+is text.
+
+00:02:44.038 --> 00:02:45.576
+Now as part of the new
+
+00:02:45.576 --> 00:02:49.538
+update, we've got two new panels here,
+the first of which is this progress panel.
+
+00:02:49.538 --> 00:02:53.576
+So we've got an overall ranked progress
+status of green in progress
+
+00:02:53.576 --> 00:02:55.076
+to complete on time.
+
+00:02:55.076 --> 00:02:58.076
+And then we've got a selection
+of underlying evidence points
+
+00:02:58.269 --> 00:03:03.769
+that underlie that overall rank
+progress status so that you can explore.
+
+00:03:03.846 --> 00:03:06.538
+Now the second new panel here
+is this contributions panel,
+
+00:03:06.538 --> 00:03:11.769
+which details those active contributions
+towards the delivery of this activity
+
+00:03:11.846 --> 00:03:16.038
+and also details
+those expressions of future interest
+
+00:03:16.115 --> 00:03:18.346
+from organisations
+that are keen to get involved
+
+00:03:18.346 --> 00:03:21.346
+in the delivery of this activity
+going forward.
+
+00:03:21.576 --> 00:03:22.692
+And here we really begin
+
+00:03:22.692 --> 00:03:26.500
+to see where we can identify
+opportunities is within the roadmap.
+
+00:03:26.653 --> 00:03:29.038
+We can we can find out
+what people are already contributing.
+
+00:03:29.038 --> 00:03:30.846
+We can find out information
+through the links,
+
+00:03:30.846 --> 00:03:33.576
+we can find out more through the website,
+and we can also get in touch
+
+00:03:33.576 --> 00:03:38.307
+by the contact information that we can
+find out who's who's already involved
+
+00:03:38.384 --> 00:03:40.269
+and how in what capacity.
+
+00:03:40.269 --> 00:03:42.230
+And we can also find out
+those organisations
+
+00:03:42.230 --> 00:03:43.884
+who are keen to get involved as well.
+
+00:03:43.884 --> 00:03:49.038
+And we've got, again, websites and contact
+information that we can really start
+
+00:03:49.038 --> 00:03:53.076
+to identify opportunities
+through this panel.
+
+00:03:53.153 --> 00:03:54.500
+Now, there are some other ways
+
+00:03:54.500 --> 00:04:00.923
+to reduce down to relevant activities here
+so we can return back to the view here
+
+00:04:01.192 --> 00:04:03.923
+if we want to reduce down
+to a particular stream of interest,
+
+00:04:03.923 --> 00:04:07.730
+let's say licensing, and you see
+if we can click on this panel here
+
+00:04:07.807 --> 00:04:10.538
+and the roadmap will reduce down to only
+
+00:04:10.538 --> 00:04:13.538
+those activities within this stream.
+
+00:04:13.538 --> 00:04:16.692
+Now let's return back to the view
+
+00:04:16.769 --> 00:04:21.346
+now one of the key features with
+this update is the update to the tagging.
+
+00:04:21.423 --> 00:04:22.153
+So we'll see.
+
+00:04:22.153 --> 00:04:25.115
+There's a blue overlay here
+that points to this tagging module
+
+00:04:25.115 --> 00:04:27.538
+and I'm just going to exit
+that here for now.
+
+00:04:27.538 --> 00:04:29.346
+And we've got some groups here
+we could all tag.
+
+00:04:29.346 --> 00:04:33.807
+So over 60 new tags have been mapped
+across the roadmap data.
+
+00:04:33.807 --> 00:04:35.307
+As part of this release.
+
+00:04:35.307 --> 00:04:38.038
+We've got two golden threads
+that were featured in the version
+
+00:04:38.038 --> 00:04:40.923
+one release of the roadmap
+and then we've also got tags for
+
+00:04:40.923 --> 00:04:45.423
+can create to organisations
+that have been involved in this update.
+
+00:04:45.500 --> 00:04:49.807
+So we can expand these groups
+by clicking on the arrow here.
+
+00:04:49.884 --> 00:04:53.269
+Let's jump in and give a bit of a demo
+as to how these work.
+
+00:04:53.346 --> 00:04:56.807
+So let's say I want to find out about data
+related activity.
+
+00:04:56.884 --> 00:04:58.153
+Within this view.
+
+00:04:58.153 --> 00:05:02.846
+I can click on data here and the view
+will reduce down to those activities.
+
+00:05:02.923 --> 00:05:04.230
+So reduce
+
+00:05:04.230 --> 00:05:09.307
+down to those activities
+related to data here,
+
+00:05:09.384 --> 00:05:11.884
+but we can also do that
+across multiple tags.
+
+00:05:11.884 --> 00:05:14.884
+So we can do that with safety as well.
+
+00:05:14.884 --> 00:05:16.538
+So let's keep data on.
+
+00:05:16.538 --> 00:05:18.615
+We can also click safety there.
+
+00:05:18.615 --> 00:05:21.076
+And at the moment we've got
+
+00:05:21.076 --> 00:05:24.000
+data or safety,
+but we can also do data around safety.
+
+00:05:24.000 --> 00:05:27.000
+So where those tags overlap,
+
+00:05:27.038 --> 00:05:30.038
+we can also do this across different
+tagging groups.
+
+00:05:30.192 --> 00:05:35.576
+So let's say I want to find out
+where the National Physical Laboratory
+
+00:05:35.653 --> 00:05:38.576
+are involved in sensors.
+
+00:05:38.576 --> 00:05:41.038
+Let's find that.
+
+00:05:41.038 --> 00:05:43.653
+So we've got all our toggle on and there
+
+00:05:43.653 --> 00:05:48.269
+so this is what the National Physical
+Laboratory have contributed
+
+00:05:48.346 --> 00:05:51.346
+to contribute the data
+towards those activities
+
+00:05:51.346 --> 00:05:55.461
+where they are contributing
+to activity in sensors there.
+
+00:05:55.538 --> 00:06:00.192
+Now let's return
+back to the full road map view here
+
+00:06:00.269 --> 00:06:02.615
+and let's jump to the next view.
+
+00:06:02.615 --> 00:06:07.307
+So this is our CAM created view
+for these organisations.
+
+00:06:07.307 --> 00:06:10.192
+These can create two organisations that
+
+00:06:10.192 --> 00:06:12.730
+are involved in this release.
+
+00:06:12.730 --> 00:06:15.730
+So as you can see, you can scroll down
+and you can see all the organisations
+
+00:06:15.807 --> 00:06:19.115
+that are involved here,
+and we can click on an organisation
+
+00:06:19.115 --> 00:06:22.538
+to open up the global panel
+and you'll find some information
+
+00:06:22.615 --> 00:06:23.500
+about the organisation.
+
+00:06:23.500 --> 00:06:25.192
+It's name and description.
+
+00:06:25.653 --> 00:06:29.269
+Also some contacts, information, website,
+an email address
+
+00:06:29.346 --> 00:06:32.846
+and they also panel here to point
+you back to the previous view to find out
+
+00:06:32.846 --> 00:06:36.538
+where that organisation is involved.
+
+00:06:36.615 --> 00:06:37.538
+Now, with the help
+
+00:06:37.538 --> 00:06:42.538
+of the powerful tagging functionality
+that comes with this update, you can now
+
+00:06:42.538 --> 00:06:46.038
+see which organisations are involved
+in which topics across the roadmap.
+
+00:06:46.115 --> 00:06:49.769
+So let's say I want to find out who's
+involved in standards related activity.
+
+00:06:49.769 --> 00:06:52.769
+I can click on Standard here
+and it will reduce down.
+
+00:06:53.000 --> 00:06:54.730
+We can also do that over multiple tags.
+
+00:06:54.730 --> 00:06:57.192
+So standards and communications.
+
+00:06:57.192 --> 00:07:00.153
+Oh, let's flip that over to all.
+
+00:07:00.153 --> 00:07:01.769
+So we've got communications
+
+00:07:01.769 --> 00:07:05.615
+and standards over there and
+then we can do that for four and as well.
+
+00:07:05.730 --> 00:07:13.384
+And that will reduce those
+organisations down to such.
+
+00:07:13.461 --> 00:07:17.346
+Now let's jump to this last few here.
+
+00:07:17.423 --> 00:07:21.230
+So maybe you've got some suggestions
+for new activities within the roadmap.
+
+00:07:21.461 --> 00:07:23.500
+And if we click on this button here,
+
+00:07:23.500 --> 00:07:26.846
+this will open up a new form
+where you can propose activities
+
+00:07:27.000 --> 00:07:30.423
+for the roadmap so it can provide a name
+for your proposed activity.
+
+00:07:30.500 --> 00:07:33.307
+You can suggest a stream or where
+
+00:07:33.307 --> 00:07:36.615
+it should sit under a stream or where
+it should sit under a one page, a group.
+
+00:07:36.615 --> 00:07:38.692
+If you want to be more specific,
+
+00:07:38.692 --> 00:07:42.038
+also provide a description
+of your activity, start and end date.
+
+00:07:42.115 --> 00:07:45.500
+What this activity would depend upon
+which activity is already
+
+00:07:45.500 --> 00:07:49.115
+existing within the roadmap
+and what this activity would enable.
+
+00:07:49.269 --> 00:07:53.846
+And for these fields here, we need
+to provide the IDs of those activities.
+
+00:07:53.846 --> 00:07:57.615
+So if you rewind the video, we can
+you can see in the global panel
+
+00:07:57.615 --> 00:08:00.346
+where to find the external
+IP that you need to quote.
+
+00:08:00.346 --> 00:08:03.653
+And in this last field here,
+we can provide some
+
+00:08:03.730 --> 00:08:07.076
+some detail, some justification
+as to why you think this activity
+
+00:08:07.153 --> 00:08:08.500
+should be added to the roadmap.
+
+00:08:08.500 --> 00:08:11.538
+Maybe there's a particular gap
+you think this activity would address
+
+00:08:11.730 --> 00:08:14.615
+or maybe you think it should replace
+another activity.
+
+00:08:14.615 --> 00:08:17.807
+We'd love to hear
+your thoughts around that.
+
+00:08:17.884 --> 00:08:20.384
+So we're turning back to The View here.
+
+00:08:20.384 --> 00:08:24.615
+Perhaps you'd like to become a CAM Creator,
+as these organisations
+
+00:08:24.692 --> 00:08:27.230
+have that I've just showcased there.
+
+00:08:27.230 --> 00:08:30.230
+So if we click here,
+this will take us through to our website
+
+00:08:30.230 --> 00:08:33.076
+where you can fill in the form
+to become a CAM Creator.
+
+00:08:33.076 --> 00:08:35.807
+We've got some general information,
+questions about your organisation
+
+00:08:35.807 --> 00:08:40.269
+and then some data collection, questions
+about the roadmap activities themselves.
+
+00:08:40.269 --> 00:08:45.500
+And we've got some examples there
+to help you to fill in the form.
+
+00:08:45.576 --> 00:08:47.269
+And if you've got any other feedback
+or questions,
+
+00:08:47.269 --> 00:08:52.115
+please do drop us
+an email at info@zenzic.io
+
+00:08:52.192 --> 00:08:54.576
+and if you've spotted a mistake as well,
+
+00:08:54.576 --> 00:08:56.884
+please drop us an email as well.
+
+00:08:56.884 --> 00:08:59.269
+We'd love to hear from you.
+
+00:08:59.269 --> 00:09:01.076
+Thank you very much
+for watching this tutorial.
+
+00:09:01.076 --> 00:09:03.192
+I hope it's been helpful
+and we hope that you're able
+
+00:09:03.192 --> 00:09:07.038
+to find opportunities
+for your organisation through the roadmap.

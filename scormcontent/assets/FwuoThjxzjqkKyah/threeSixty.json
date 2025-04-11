@@ -1,0 +1,27 @@
+{
+  "version": "3.71.29339.0",
+  "course_id": "5YfhfISQflp",
+  "title": "6 SAE Levels",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6CqvkrWUFBE",
+      "title": "Drag and Drop",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1120,
+    "height": 1145
+  },
+  "stage": {
+    "width": 1100,
+    "height": 1050
+  }
+}
